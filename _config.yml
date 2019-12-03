@@ -25,7 +25,7 @@ projects:
   limit: 15
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
     - OAuthAutorizer
     - AutolayoutTest
@@ -37,24 +37,27 @@ projects:
     - LaunchBarGlosbe
     # - LaunchBarActions
     - SVGToolbox
+    - Role-Playing-System-V2
+    - PuzzleLayout
+    - wiremock
 
 social_media:
+  linkedin: alexey-glushkov-46569039
+  twitter: soniccat
+  stackoverflow: 191027
   # behance: your_username
   # dribbble: your_username
   facebook: alexey.glushkov
   # hackerrank: your_username
   instagram: alexey.gl
   # keybase: your_username
-  linkedin: alexey-glushkov-46569039
   # mastodon: your_username
   medium: sonicCat
-  stackoverflow: 191027
-  telegram: aglushkov
-  twitter: soniccat
   # unsplash: your_username
   vk: soniccat
   website: https://www.soniccat.ru
   youtube: sonicCat
+  telegram: aglushkov
 
 # topics:
 #   - name: CSS
