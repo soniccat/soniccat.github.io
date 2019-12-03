@@ -22,7 +22,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 15
+  limit: 25
   exclude:
     archived: false
     forks: false
@@ -40,6 +40,7 @@ projects:
     - Role-Playing-System-V2
     - PuzzleLayout
     - wiremock
+    - personal-website
 
 social_media:
   linkedin: alexey-glushkov-46569039
