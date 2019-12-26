@@ -60,6 +60,10 @@ social_media:
   youtube: sonicCat
   telegram: aglushkov
 
+post_comments:
+  service: commentbox.io
+
+
 # topics:
 #   - name: CSS
 #     web_url: https://github.com/topics/css
