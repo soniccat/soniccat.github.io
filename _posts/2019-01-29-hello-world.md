@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Jekyll!"
-published: false
-comments: false
+published: true
+comments: true
 ---
 
 **Hello world**, this is my first Jekyll blog post.
