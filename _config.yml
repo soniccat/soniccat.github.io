@@ -36,7 +36,6 @@ projects:
     - iOSFontPlaygound
     - LaunchBarGlosbe
     # - LaunchBarActions
-    - SVGToolbox
     - Role-Playing-System-V2
     - PuzzleLayout
     - wiremock
